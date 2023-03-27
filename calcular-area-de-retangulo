@@ -1,0 +1,7 @@
+print("Calcule aqui a area de um retangulo")
+
+base = input("Qual o valor da base do seu retangulo? ")
+altura = input("Qual o valor da altura do seu retângulo? ")
+area = float(base) * float(altura)
+
+print(f"O seu retângulo possui area: {area}")
